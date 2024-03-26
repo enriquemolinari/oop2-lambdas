@@ -1,6 +1,6 @@
 package oop2.lambdas;
 
-public class MainLambdas {
+public class MainIntroLambdas2 {
     public static void main(String[] args) {
         // parameters   ->  body
         // (a, b, c)    ->  { }
@@ -10,7 +10,7 @@ public class MainLambdas {
         // a    ->  a + 1;
 
         // porque es posible esta asignacion?
-        Runnable r = (/* parameters */) -> { /* body */ };
+        //Runnable r = (/* parameters */) -> { /* body */ };
 
         // ¿ es posible esta asignacion?
         // Predicate p = (/* parameters */) -> { /* body */ };

@@ -26,4 +26,9 @@ public class Concurso {
     public String nombre() {
         return this.nombre;
     }
+
+    @Override
+    public String toString() {
+        return this.nombre;
+    }
 }
