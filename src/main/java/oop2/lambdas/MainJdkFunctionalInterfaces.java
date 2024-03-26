@@ -1,14 +1,7 @@
 package oop2.lambdas;
 
-public class MainIntroLambdas2 {
+public class MainJdkFunctionalInterfaces {
     public static void main(String[] args) {
-        // parameters   ->  body
-        // (a, b, c)    ->  { }
-
-        // 1 parametro   ->  una expresión
-        // (a)    ->  return a + 1;
-        // a    ->  a + 1;
-
         // porque es posible esta asignacion?
         //Runnable r = (/* parameters */) -> { /* body */ };
 

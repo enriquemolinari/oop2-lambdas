@@ -1,6 +1,6 @@
 package oop2.lambdas;
 
-public class MainIntroLambdas1 {
+public class MainIntroLambdas {
     public static void main(String[] args) {
         // 1. creo una clase que implemente Saludador
         // 2. creo una clase anonima que implemente un Saladudar

@@ -17,12 +17,10 @@ public class Main {
                 LocalDateTime.of(2024, 8, 22, 10, 30, 10));
 
         var ps = new Concursos(p1, p2, p3);
-
-
+        
         var conNombre = ps.concursoConNombre("Y");
         var empiezanEn = ps.concursosInicianEn(LocalDate.of(2024, 7, 22));
-//        var conE = ps.filtro((p) -> p.nombreEmpiezaCon("E"));
-//        var pares = ps.filtro((p) -> p.nombreConCantidadParDeLetras());
+
         for (Concurso c : conNombre) {
             System.out.println(c);
         }
