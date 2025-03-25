@@ -33,12 +33,12 @@ public class Productos {
         }
         return Collections.unmodifiableList(this.productos);
     }
-    
-    public int cantidad() {
+
+    int cantidad() {
         return this.productos.size();
     }
 
-    public boolean contiene(Producto unProducto) {
+    boolean contiene(Producto unProducto) {
         return this.productos.contains(unProducto);
     }
 }
