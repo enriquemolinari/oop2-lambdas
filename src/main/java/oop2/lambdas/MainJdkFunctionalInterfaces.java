@@ -6,7 +6,7 @@ public class MainJdkFunctionalInterfaces {
         //Runnable r = (/* parameters */) -> { /* body */ };
 
         // ¿ es posible esta asignacion?
-        // Predicate p = (/* parameters */) -> { /* body */ };
+        //Predicate p = (/* parameters */) -> { /* body */ };
 
         // ¿ es posible esta asignacion?
         // Consumer c = (/* parameters */) -> { /* body */ };

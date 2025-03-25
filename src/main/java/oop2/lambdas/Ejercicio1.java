@@ -41,8 +41,9 @@ public class Ejercicio1 {
             System.out.println("abcd" + b);
         });
         a.unMetodo(() -> System.out.println("abcd"));
-        a.unMetodo((variable) -> {
+        a.unMetodo((String variable) -> {
             System.out.println("abcd");
+            return true;
         });
         a.unMetodo((Long variable) -> {
             System.out.println("abcd");
