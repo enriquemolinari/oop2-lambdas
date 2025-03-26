@@ -4,9 +4,10 @@
 - Lenguajes tipados estáticamente vs dinámicamente
 - Checked vs Unchecked Exceptions
 - Estructura de una Expresión Lambda
+  - Definido por su tipo: Intefaz Funcional
 - Closures
-- ¿Cómo defino el tipo de un conjunto de colaboraciones que puedo parametrizar?
-    - Funcional Interfaces: Exactamente un único método abstracto.
-    - Consumer, Supplier, Function, Predicate, etc
+  - Clausura del ámbito de las variables declaradas fuera del lambda.
+- Funcional Interfaces: Exactamente un único método abstracto.
+- Jdk Funcional Interfaces: Consumer, Supplier, Function, Predicate, etc
 - Ejemplo 1: Collecciones (Loop Concursos)
 - Ejemplo 2: Structura repetitiva (chequear permisos, luego ejecutar)
