@@ -20,6 +20,11 @@
             <version>RELEASE</version>
             <scope>test</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.jooq/jool
+            Sirve para lidear mejor con las lambdas y las checked exceptions
+            https://www.baeldung.com/jool
+            Converting Checked Exceptions to Unchecked
+        -->
         <dependency>
             <groupId>org.jooq</groupId>
             <artifactId>jool</artifactId>
