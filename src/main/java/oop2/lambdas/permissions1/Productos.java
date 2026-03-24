@@ -1,4 +1,4 @@
-package oop2.lambdas.otros;
+package oop2.lambdas.permissions1;
 
 import java.util.Collections;
 import java.util.List;

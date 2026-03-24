@@ -1,4 +1,4 @@
-package oop2.lambdas.otros;
+package oop2.lambdas.permissions1;
 
 public class SecuritySubSystem {
     public boolean checkPermission(String userId) {
