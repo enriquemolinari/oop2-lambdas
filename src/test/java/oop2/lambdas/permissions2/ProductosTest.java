@@ -1,4 +1,4 @@
-package oop2.lambdas.otros;
+package oop2.lambdas.permissions2;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
