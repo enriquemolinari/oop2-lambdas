@@ -1,4 +1,4 @@
-package oop2.lambdas;
+package oop2.ejercicios;
 
 interface A {
     void metodo();
