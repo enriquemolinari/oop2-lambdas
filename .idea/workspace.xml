@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f4b091b-c9ac-4c8f-b1fa-73b3f5ee705a" name="Changes" comment="mejora del readme">
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop2/ejercicios/filtros/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop2/ejercicios/filtros/Personas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop2/ejercicios/jdbc/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop2/ejercicios/jdbc/Usuarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop2/ejercicios/jdbc/UsuariosDDL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop2/lambdas/permissions2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop2/lambdas/permissions2/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop2/lambdas/permissions2/Productos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop2/lambdas/permissions2/SecuritySubSystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop2/lambdas/otros/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop2/lambdas/permissions1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop2/lambdas/otros/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop2/lambdas/permissions1/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop2/lambdas/otros/Productos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop2/lambdas/permissions1/Productos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop2/lambdas/otros/SecuritySubSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop2/lambdas/permissions1/SecuritySubSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/oop2/lambdas/otros/ProductosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/oop2/lambdas/permissions1/ProductosTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +87,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/enrique/workspaces/oop2-lambdas/src/main/java/oop2/lambdas/permissions2",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -90,6 +95,11 @@
     "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/oop2/lambdas/permissions2" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop2.ejercicios.jdbc.Main" />

@@ -13,3 +13,4 @@
 - Jdk Funcional Interfaces: Consumer, Supplier, Function, Predicate, etc
 - Ejemplo 1: Collecciones (Loop Concursos)
 - Ejemplo 2: Structura repetitiva (chequear permisos, luego ejecutar)
+- Ejemplo 3: Structura repetitiva (condición y ejecución)
