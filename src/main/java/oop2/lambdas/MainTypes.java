@@ -17,6 +17,9 @@ public class MainTypes {
         //Lenguajes tipados en compilacion vs tipados en ejecución
         //Estáticamente vs dinámicamente tipados
         Object o = new String("Hola");
+
+//        o = new Integer(10);
+
         //cual es el tipo de o?
         //cual es el tipo de o2?
         //var o2 = new String("Hola");
